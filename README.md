@@ -1,4 +1,4 @@
-# Dokumentacja serwera Palworld Dedicated Server BetterPals Polska
+# Dokumentacja serwera Palworld BetterPals Polska
 
 ## Opis plików konfiguracyjnych i skryptów
 
